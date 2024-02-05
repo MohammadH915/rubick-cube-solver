@@ -31,4 +31,3 @@ This Python codebase is designed to solve Rubik's Cube puzzles using various sea
 
 ## Usage
 python main.py --method BiBFS
-python main.py --method IDS-DFS
